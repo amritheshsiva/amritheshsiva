@@ -68,12 +68,11 @@ print(amrithesh)
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/amritheshsiva"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amritheshsiva" /></a></p><br><br>
+  ## SUPPORT
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amritheshsb) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/amritheshsiva) 
 
-
-
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
