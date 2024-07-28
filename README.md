@@ -10,17 +10,18 @@ class Amrithesh:
         self.name = "Amrithesh"
         self.age = 21
         self.interests = ["coding", "music", "learning"]
-        self.skills = ["Python","HTML","CSS","C", "Figma", "Firebase"]
+        self.skills = ["Python", "HTML", "CSS", "C", "Figma", "Firebase"]
         self.currently_learning = "Flutter"
         self.ask_me_about = ["HTML", "CSS"]
         self.contact = "amritheshsiva@gmail.com"
         self.fun_fact = "I am funny"
-        
+        self.languages_and_tools = ["C", "CSS3", "Dart", "Docker", "Figma", "Firebase", "Flutter", "Git", "HTML5", "Matlab", "Photoshop", "Python"]
+
     def __str__(self):
         interests = ', '.join(self.interests)
         skills = ', '.join(self.skills)
         ask_me_about = ', '.join(self.ask_me_about)
-        languages_and_tools = ', '.join(self.studying)
+        languages_and_tools = ', '.join(self.languages_and_tools)
         
         return (f"👋 Hey, I'm {self.name}!\n\n"
                 f"I'm {self.age} years old and passionate about {interests}.\n\n"
@@ -29,11 +30,12 @@ class Amrithesh:
                 f"💬 Ask me about {ask_me_about}\n"
                 f"📫 How to reach me: {self.contact}\n"
                 f"⚡ Fun fact: {self.fun_fact}\n\n"
-                f"🛠️ Languages and Tools:\n{studying}")
+                f"🛠️ Languages and Tools: {languages_and_tools}")
 
 amrithesh = Amrithesh()
 
 print(amrithesh)
+
 
 
 
