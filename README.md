@@ -14,16 +14,14 @@ class Amrithesh:
         self.fun_fact = "I am funny😂"
 
     def __str__(self):
-        return (f"# Hi, I'm {self.name}\n\n"
-                f"**Interests:** {', '.join(self.interests)}\n\n"
-                f"**Skills:** {', '.join(self.skills)}\n\n"
-                f"**Contact:** {self.contact}\n\n"
-                f"**Fun Fact:** {self.fun_fact}")
+        return (f"Hi, I'm {self.name}\n\n"
+                f"Interests: {', '.join(self.interests)}\n\n"
+                f"Skills: {', '.join(self.skills)}\n\n"
+                f"Contact: {self.contact}\n\n"
+                f"Fun Fact: {self.fun_fact}")
 
 amrithesh = Amrithesh()
 print(amrithesh)
-
-
 
 
 ```
