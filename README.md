@@ -9,19 +9,20 @@ class Amrithesh:
     def __init__(self):
         self.name = "Amrithesh"
         self.interests = ["coding", "music", "learning"]
-        self.skills = ["Python","C", "HTML", "CSS", "Firebase", "Figma","Flutter", "Git"]
+        self.skills = ["Python", "C", "HTML", "CSS", "Firebase", "Figma", "Flutter", "Git"]
         self.contact = "amritheshsiva@gmail.com"
         self.fun_fact = "I am funny😂"
 
     def __str__(self):
-        return (f"👋 Hi, I'm {self.name}.\n"
-                f"Interests: {', '.join(self.interests)}.\n"
-                f"Skills: {', '.join(set(self.skills))}.\n"
-                f"📫 {self.contact}\n"
-                f"⚡ Fun fact: {self.fun_fact}.")
+        return (f"# Hi, I'm {self.name}\n\n"
+                f"**Interests:** {', '.join(self.interests)}\n\n"
+                f"**Skills:** {', '.join(self.skills)}\n\n"
+                f"**Contact:** {self.contact}\n\n"
+                f"**Fun Fact:** {self.fun_fact}")
 
 amrithesh = Amrithesh()
 print(amrithesh)
+
 
 
 
