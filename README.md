@@ -5,25 +5,20 @@
 
 
 ```python
-class Amrithesh:
-    def __init__(self):
-        self.name = "Amrithesh"
-        self.interests = ["coding", "music", "learning"]
-        self.skills = ["Python", "C", "HTML", "CSS", "Firebase", "Figma", "Flutter", "Git"]
-        self.contact = "amritheshsiva@gmail.com"
-        self.fun_fact = "I am funny😂"
+# Information about Amrithesh
 
-    def __str__(self):
-        return (f"Hi, I'm {self.name}\n\n"
-                f"Interests: {', '.join(self.interests)}\n\n"
-                f"Skills: {', '.join(self.skills)}\n\n"
-                f"Contact: {self.contact}\n\n"
-                f"Fun Fact: {self.fun_fact}")
+name = "Amrithesh"
+interests = ["coding", "music", "learning"]
+skills = ["Python", "C", "Firebase", "Figma", "Flutter", "Git"]
+contact = "amritheshsiva@gmail.com"
+fun_fact = "I am funny 😂"
 
-amrithesh = Amrithesh()
-print(amrithesh)
-
-
+# Print the information
+print("Hi, I'm", name)
+print("\nInterests:", ", ".join(interests))
+print("\nSkills:", ", ".join(skills))
+print("\nContact:", contact)
+print("\nFun Fact:", fun_fact)
 ```
 
 
