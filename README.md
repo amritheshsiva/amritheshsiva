@@ -5,7 +5,7 @@
 
 
 ```python
-# Information about Amrithesh
+# About me
 
 name = "Amrithesh"
 interests = ["coding", "music", "learning"]
