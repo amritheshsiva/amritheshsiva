@@ -9,11 +9,10 @@
 
 name = "Amrithesh"
 interests = ["coding", "music", "learning"]
-skills = ["Python", "C", "Firebase", "Figma", "Flutter", "Git"]
+skills = ["Python", "C", "Firebase", "Figma", "Flutter"]
 contact = "amritheshsiva@gmail.com"
 fun_fact = "I am funny 😂"
 
-# Print the information
 print("Hi, I'm", name)
 print("\nInterests:", ", ".join(interests))
 print("\nSkills:", ", ".join(skills))
