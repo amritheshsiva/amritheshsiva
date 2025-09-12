@@ -4,20 +4,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritheshsiva&label=Profile%20views&color=0e75b6&style=flat" alt="amritheshsiva" /> </p>
 
 
-```python
 # About me
 
+```python
 name = "Amrithesh"
 interests = ["coding", "music", "learning"]
-skills = ["Python", "C", "Firebase", "Figma", "Flutter"]
+skills = ["Python", "C", "Flutter", "Firebase", "Figma"]
 contact = "amritheshsiva@gmail.com"
-fun_fact = "I am funny 😂"
+fun_fact = "I think I'm funny 😂"
 
-print("Hi, I'm", name)
-print("\nInterests:", ", ".join(interests))
-print("\nSkills:", ", ".join(skills))
-print("\nContact:", contact)
-print("\nFun Fact:", fun_fact)
+print("Hi, I'm", name, "!")
+print("I like:", ", ".join(interests))
+print("Learning about:", ", ".join(skills))
+print("Contact me at:", contact)
+print("Fun fact:", fun_fact)
 ```
 
 
