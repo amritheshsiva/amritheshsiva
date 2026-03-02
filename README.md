@@ -26,7 +26,7 @@ skills = [
 
 tools = ["Git", "GitHub", "VS Code", "Postman", "Vercel"]
 
-fun_fact = "I debug code faster after coffee ☕"
+fun_fact = "My code works… I have no idea why."
 
 print("Hi, I'm", name)
 print("Role:", role)
