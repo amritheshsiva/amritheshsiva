@@ -89,7 +89,7 @@ print("Fun fact:", fun_fact)
 <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel"/></a>
 </p>
 
-<h3 align="center">☕ Support</h3>
+<h3 align="center">Support</h3>
 
 <p align="center">
 
